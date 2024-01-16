@@ -5,6 +5,10 @@ body {
     font-family: 'Poppins', 'Nunito', sans-serif;
 }
 
+img {
+    width: 700px;
+}
+
 #main-container {
     width: 100%;
     display: flex;
